@@ -11,7 +11,7 @@ cover: https://github.com/zizhuspot/epoch.gostar.top/assets/134364698/55b58fc4-4
 
 ---
 
-## Some Huawei fast charging cable can't charge iPhone 15, the answer is here!
+## Some Huawei fast charging cable can't charge iPhone 15
 
 Since the launch of the iPhone 15 series, the black hot search on the Internet has not been broken, as to why, I think we understand all understand.
 
